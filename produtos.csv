@@ -1,9 +1,62 @@
-id,nome,categoria,preco,img
-1,Copo Descartável 200ml (100un),Copos,15.90,https://placehold.co/300x200?text=Copo+200ml
-2,Prato de Plástico Branco (10un),Pratos,8.50,https://placehold.co/300x200?text=Prato+Branco
-3,Guardanapo Folha Dupla (50un),Papel,4.20,https://placehold.co/300x200?text=Guardanapo
-4,Saco de Lixo 100L (20un),Limpeza,25.00,https://placehold.co/300x200?text=Saco+Lixo
-5,Garfo de Sobremesa (50un),Talheres,6.90,https://placehold.co/300x200?text=Garfo+Sobremesa
-6,Luva Látex M (cx 100un),Proteção,35.00,https://placehold.co/300x200?text=Luva+Latex
-7,Pote Retangular 500ml (24un),Embalagens,42.00,https://placehold.co/300x200?text=Pote+500ml
-8,Papel Toalha Interfolha,Papel,18.90,https://placehold.co/300x200?text=Papel+Toalha
+id,nome,categoria,preco_pix,preco_cartao,img
+1,Bandeja B1 Rasa (Kit 100un),Embalagens,11.00,13.00,img/b1-rasa.jpg
+2,Bandeja B2 Rasa (Kit 100un),Embalagens,15.00,17.00,img/b2-rasa.jpg
+3,Bandeja B3 Rasa (Kit 100un),Embalagens,19.00,21.00,img/b3-rasa.jpg
+4,Bandeja B4 Rasa (Kit 100un),Embalagens,23.00,25.00,img/b4-rasa.jpg
+5,Hamburgueira H1 (Kit 100un),Embalagens, 18.00,20.00,img/h1.jpg
+6,Hamburgueira H2 (Kit 100un),Embalagens,25.00,27.00,img/h2.jpg
+7,Hamgurgueira H3 (Kit 100un),Embalagens, 36.00,38.00,img/h3.jpg
+8,Hamburgueira H6 (Kit 100un),Embalagens, 36.00,38.00,img/h6.jpg
+9,Emb Hotdog TH-004 (Kit 100un),Embalagens,29.90,33.00,img/th-004.jpg
+10,Hamburgueira BH-101 - Estojo (Kit 100un),Embalagens,44.90,47.00,img/bh101-estojo.jpg
+11,Frangueira Ultra H5 (Kit 100un),Embalagens,89.90,93.00,img/frangueira-h5.jpg
+12,Frangueira BFX-01 (Kit 100un),Embalagens,79.90,84.00,img/bfx-01.jpg
+13,Saco Kraft Delivery Tam.G 100un,Embalagens,52.00,55.00,img/saco-G.jpg
+14,Caixa Pizza 20cm - 25un,Caixa Pizza,27.00,29.00,img/caixa-20.jpg
+15,Caixa Pizza 25cm - 25un,Caixa Pizza,30.50,32.50,img/caixa-25.jpg
+16,Caixa Pizza 30cm - 25un,Caixa Pizza,34.50,37.00,img/caixa-30.jpg
+17,Caixa Pizza 35cm - 25un,Caixa Pizza,38.50,42.00,img/Caixa-35.jpg
+18,Caixa Pizza 40cm - 25un,Caixa Pizza,49.50,53.00,img/caixa-40.jpg
+19,Caixa Pizza 45cm - 25un,Caixa Pizza,56.00,60.00,img/caixa-45.jpg
+20,Caixa Batata Frita P - 50un,Embalagens,13.50,15.50,img/batata-p.jpg
+21,Caixa Batata Frita M - 50un,Embalagens,15.50,17.50,img/batata-m.jpg
+22,Copo Plast 200ml Transp (100un),Copos,5.50,6.50,img/copo200ml-transp.jpg
+23,Copo Plast 200ml Branco (100un),Copos,5.50,6.50,img/copo200ml-branco.jpg
+24,Copo Plast PP 300ml (100un),Copos,9.50,11.00,img/copoPP300.jpg
+25,Copo Plast PP 400ml (100un),Copos,12.00,13.50,img/copoPP400.jpg
+26,Copo Plast PP 500ml (100un),Copos,14.50,16.00,img/copoPP500.jpg
+27,Copo Plast PP 770ml (25un),Copos,13.00,15.00,img/copoPP770.jpg
+28,Canudo Mazel - 100un,Descartáveis,4.75,5.75,img/canudo.jpg
+29,Papel Alumínio 4 metros,Descartáveis,3.50,4.50,img/papel-alum.jpg
+30,Prato Plast 18cm Raso 10un,Descartáveis,2.50,3.50,img/prato18cm.jpg
+31,Colher Master Branca (50un),Descartáveis,6.50,7.50,img/colher.jpg
+32,Faca Refeição Branca (50un),Descartáveis,5.50,6.50,img/faca.jpg
+33,Garfo Master Branco (50un),Descartáveis,7.50,8.50,img/garfo.jpg
+34,Pote Térmico BM-500ml c/50un Sem Tampa (Cumbuca),Embalagens,16.50,18.50,img/bm-500.jpg
+35,Pote Térmico BM-500ml c/50un Com Tampa (Cumbuca),Embalagens,24.50,27.00,img/bm-500tampa.jpg
+36,Pote Térmico PT-300ml c/50un Sem Tampa (Cumbuca),Embalagens,11.00,13.00,img/pt-300.jpg
+37,Pote Térmico PT-300ml c/50un Com Tampa (Cumbuca),Embalagens,16.50,19.50,img/pt300tampa.jpg
+38,Bandeja Alumínio Com Tampa 750ml (Kit 100un),Embalagens,67.00,69.00,img/alum-750.jpg
+39,Papel Acoplado Lanche,Embalagens,24.00,26.00,img/acop-lanche.jpg
+40,Papel Acoplado Frios,Embalagens,24.00,26.00,img/acop-frios.jpg
+41,Emb PF 641 Doce Quadrado (Kit 50un),Pote Doce,17.90,19.90,img/pf641.jpg
+42,Emb F12 Pote Ret 12 Doces (Kit 10un),Pote Doce,10.50,13.00,img/f12.jpg
+43,Emb D645 Pote Redondo 120ml (Kit 50un),Pote Doce,17.50,19.50,img/d645.jpg
+44,Pote Redondo PP 200ml (Kit 25un),Potes Redondos,9.00,11.00,img/pote200redondo.jpg
+45,Pote Redondo PP 250ml (Kit 25un),Potes Redondos,9.50,11.50,img/pote250redondo.jpg
+46,Pote Redondo PP 500ml c/ Lacre (Kit 10un),Potes Redondos,9.50,12.00,img/pote500redondo.jpg
+47,Pote Redondo PP 500ml (Kit 24un),Potes Redondos,16.50,19.00,img/pote500redondoSlacre.jpg
+48,Pote Quadrado PP 250ml c/ Lacre (Kit 10un),Potes Quadrados,13.50,15.00,img/pote250quadrado.jpg
+49,Pote Retangular PP 350ml c/ Lacre (Kit 10un),Potes Retangulares,16.00,18.00,img/pote350retangular.jpg
+50,Pote Retangular PP 450ml (Kit 25un),Potes Retangulares,14.50,16.50,img/pote450retangular.jpg
+51,Pote Retangular PP 500ml (Kit 25un),Potes Retangulares,19.50,21.00,img/pote500retangular.jpg
+52,Sacola Branca 25x35 (Kit 100un),Sacolas,4.50,5.50,img/25x35.jpg
+53,Sacola Branca 30x40 (Kit 100un),Sacolas,5.50,6.50,img/30x40.jpg
+54,Sacola Branca 38x48 (Kit 100un),Sacolas,7.50,8.50,img/38x48.jpg
+55,Sacola Branca 40x50 (Kit 100un),Sacolas,9.50,10.50,img/40x50.jpg
+56,Emb Bolo Alta F35 18cm,Embalagem Bolo,2.00,3.00,img/f35A.jpg
+57,Emb Bolo Baixa F35 18cm,Embalagem Bolo,1.50,2.50,img/f35B.jpg
+58,Emb Bolo Média PF-32M 19cm,Embalagem Bolo,1.50,2.50,img/pf32m.jpg
+59,Emb Bolo Alta PF-50A 23cm,Embalagem Bolo,2.30,3.30,img/pf50A.jpg
+60,Emb Bolo Baixa PF-50B 23cm,Embalagem Bolo,1.90,2.90,img/pf50B.jpg
+61,Emb Bolo Alta PF-56A 25cm,Embalagem Bolo,3.60,4.60,img/pf56A.jpg
